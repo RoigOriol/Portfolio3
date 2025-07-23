@@ -1,9 +1,12 @@
+Portfolio React – Tailwind + i18next + Framer Motion
+ES 🇪🇸 · EN 🇬🇧
+
 🇪🇸 Español
 🚀 Portfolio React (Tailwind + i18next + Framer Motion)
 Sitio portfolio responsivo con diseño no convencional, animaciones suaves, modo claro/oscuro y contenido en Catalán, Español e Inglés.
 
 ✨ Características
-Layout creativo (no típico header + secciones apiladas).
+Layout creativo.
 
 Animaciones modernas con Framer Motion.
 
@@ -58,6 +61,7 @@ npm create vite@latest my-portfolio -- --template react
 cd my-portfolio
 
 # 2. Copia los archivos provistos en esta estructura
+
 # 3. Instala dependencias
 npm install
 
@@ -72,12 +76,12 @@ Archivos en public/locales/{lang}/common.json.
 
 Cambia o añade claves para más textos.
 
-Selector de idioma guarda preferencia en localStorage.
+El selector de idioma guarda la preferencia en localStorage.
 
 🌓 Tema claro/oscuro
 Hook useTheme + ThemeContext.
 
-Prefiere prefers-color-scheme del SO si no hay elección previa.
+Respeta prefers-color-scheme del SO si no hay elección previa.
 
 Clases dark: de Tailwind.
 
@@ -89,9 +93,9 @@ Añade proyectos en src/data/projects.js.
 Ajusta rotaciones/diseño inusual en SectionShell.jsx.
 
 🚢 Deploy
-Netlify/Vercel: configurar build npm run build y publicar dist/.
+Netlify/Vercel: build npm run build y publica la carpeta dist/.
 
-GitHub Pages: usar vite + acción de CI o gh-pages.
+GitHub Pages: usa Vite + acción de CI o gh-pages.
 
 📄 Licencia
 Libre uso y adaptación para proyectos personales. Añade tu propia licencia si lo publicas.
@@ -101,7 +105,7 @@ Libre uso y adaptación para proyectos personales. Añade tu propia licencia si 
 Responsive portfolio with an unconventional layout, smooth animations, dark/light mode, and content in Catalan, Spanish, and English.
 
 ✨ Features
-Creative, non-standard layout (no classic header + stacked sections).
+Creative, non-standard layout.
 
 Modern transitions via Framer Motion.
 
@@ -156,6 +160,7 @@ npm create vite@latest my-portfolio -- --template react
 cd my-portfolio
 
 # 2. Copy the provided files into this structure
+
 # 3. Install deps
 npm install
 
@@ -187,9 +192,9 @@ Add projects in src/data/projects.js.
 Tweak rotations/unconventional layout in SectionShell.jsx.
 
 🚢 Deployment
-Netlify/Vercel: build npm run build, serve dist/.
+Netlify/Vercel: build with npm run build, serve dist/.
 
-GitHub Pages: use vite + CI action or gh-pages.
+GitHub Pages: use Vite + CI action or gh-pages.
 
 📄 License
 Free to use/modify for personal projects. Add your own license if distributing.
