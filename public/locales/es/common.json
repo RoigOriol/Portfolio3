@@ -1,0 +1,38 @@
+{
+  "nav": { "about": "Sobre mí", "projects": "Proyectos", "resume": "CV", "contact": "Contacto" },
+  "hero": {
+    "heading": "Hola, soy Clara, una desarrolladora web apasionada.",
+    "sub": "Creo experiencias web atractivas y fáciles de usar.",
+    "cta": "Ver proyectos"
+  },
+  "about": {
+    "title": "Sobre mí",
+    "text1": "Soy una diseñadora de productos apasionada con más de 5 años de experiencia...",
+    "text2": "Me encanta resolver problemas complejos y crear diseños intuitivos y visualmente atractivos...",
+    "text3": "Siempre estoy ansiosa por aprender y mantenerme al día con las últimas tendencias."
+  },
+  "projects": {
+    "title": "Proyectos",
+    "subtitle": "Una selección de mi trabajo, mostrando mis habilidades y experiencia.",
+    "more": "Ver más proyectos"
+  },
+  "resume": {
+    "title": "CV",
+    "download": "Descargar CV",
+    "summaryTitle": "Resumen",
+    "summary": "Diseñadora de producto con experiencia creando experiencias de usuario intuitivas...",
+    "skillsTitle": "Habilidades",
+    "experienceTitle": "Experiencia",
+    "educationTitle": "Educación"
+  },
+  "contact": {
+    "title": "Contacto",
+    "subtitle": "Siempre estoy abierta a nuevos proyectos, ideas creativas o simplemente charlar.",
+    "name": "Nombre",
+    "email": "Correo",
+    "message": "Mensaje",
+    "send": "Enviar mensaje",
+    "reach": "También puedes contactarme en: contact@example.com"
+  },
+  "footer": { "rights": "Todos los derechos reservados." }
+}

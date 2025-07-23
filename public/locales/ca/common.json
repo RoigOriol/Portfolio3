@@ -1,0 +1,38 @@
+{
+  "nav": { "about": "Sobre mi", "projects": "Projectes", "resume": "Currículum", "contact": "Contacte" },
+  "hero": {
+    "heading": "Hola, sóc la Clara, una desenvolupadora web apassionada.",
+    "sub": "Creo experiències web atractives i fàcils d'utilitzar.",
+    "cta": "Veure projectes"
+  },
+  "about": {
+    "title": "Sobre mi",
+    "text1": "Sóc una dissenyadora de producte apassionada amb més de 5 anys d'experiència...",
+    "text2": "M'encanta resoldre problemes complexos i crear dissenys intuïtius i visualment atractius...",
+    "text3": "Sempre tinc ganes d'aprendre i mantenir-me al dia de les darreres tendències."
+  },
+  "projects": {
+    "title": "Projectes",
+    "subtitle": "Una selecció de la meva feina, mostrant les meves habilitats i experiència.",
+    "more": "Veure més projectes"
+  },
+  "resume": {
+    "title": "Currículum",
+    "download": "Descarregar CV",
+    "summaryTitle": "Resum",
+    "summary": "Dissenyadora de producte amb experiència creant experiències d'usuari intuïtives...",
+    "skillsTitle": "Habilitats",
+    "experienceTitle": "Experiència",
+    "educationTitle": "Educació"
+  },
+  "contact": {
+    "title": "Contacte",
+    "subtitle": "Sempre estic oberta a nous projectes, idees creatives o simplement conversar.",
+    "name": "Nom",
+    "email": "Correu",
+    "message": "Missatge",
+    "send": "Enviar missatge",
+    "reach": "També em pots contactar a: contact@example.com"
+  },
+  "footer": { "rights": "Tots els drets reservats." }
+}

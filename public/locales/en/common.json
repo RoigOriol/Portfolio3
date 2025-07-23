@@ -1,0 +1,38 @@
+{
+  "nav": { "about": "About", "projects": "Projects", "resume": "Resume", "contact": "Contact" },
+  "hero": {
+    "heading": "Hello, I'm Clara, a passionate web developer.",
+    "sub": "I create engaging and user-friendly web experiences.",
+    "cta": "View Projects"
+  },
+  "about": {
+    "title": "About Me",
+    "text1": "I'm a passionate product designer with over 5 years of experience in crafting user-centered digital experiences...",
+    "text2": "I thrive on solving complex problems and creating intuitive, visually appealing designs...",
+    "text3": "I'm always eager to learn and stay updated with the latest design trends and technologies."
+  },
+  "projects": {
+    "title": "Projects",
+    "subtitle": "A selection of my work, showcasing my skills and experience in various projects.",
+    "more": "View More Projects"
+  },
+  "resume": {
+    "title": "Resume",
+    "download": "Download Resume",
+    "summaryTitle": "Summary",
+    "summary": "Experienced product designer with a passion for creating intuitive and engaging user experiences...",
+    "skillsTitle": "Skills",
+    "experienceTitle": "Experience",
+    "educationTitle": "Education"
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "subtitle": "I'm always open to discussing new projects, creative ideas, or just a friendly chat.",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send Message",
+    "reach": "You can also reach me at: contact@example.com"
+  },
+  "footer": { "rights": "All rights reserved." }
+}
